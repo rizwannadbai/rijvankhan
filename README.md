@@ -13,12 +13,12 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="500" />
 </div>
 
 ## 🚀 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="200" />
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="300" />
 
 I'm an **Innovative Electrical Engineer** with over 2 years of experience in technical support, passionate about developing solutions that enhance customer satisfaction. Currently working as a **Technical Support Engineer** at Teleperformance, specializing in Adobe Creative Suite products.
 
@@ -44,26 +44,26 @@ I'm an **Innovative Electrical Engineer** with over 2 years of experience in tec
 
 ## 💼 Professional Experience
 
-<img align="left" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="200" />
+<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" height="200" />
 
-### 🎨 Adobe Technical Support Engineer | Teleperformance
-**Jul 2024 - Present**
-- Expert support for Adobe Creative Suite (Premiere Pro, After Effects, Character Animator, Audition)
-- Troubleshoot complex software issues with 95% first-contact resolution
-- Collaborate with cross-functional teams to identify bugs and feature requests
-- Upsell premium features based on customer needs
+### 🎨 Adobe Technical Support Engineer | Teleperformance  
+**Jul 2024 - Present**  
+- Expert support for Adobe Creative Suite (Premiere Pro, After Effects, Character Animator, Audition)  
+- Troubleshoot complex software issues with 95% first-contact resolution  
+- Collaborate with cross-functional teams to identify bugs and feature requests  
+- Upsell premium features based on customer needs  
 
-### 🛡️ Subject Matter Expert | Norton
-**Jul 2021 - Feb 2023**
-- Provided cybersecurity expertise and customer support
-- Mentored team members, enhancing performance by 25%
-- Developed innovative solutions reducing resolution time by 20%
+### 🛡️ Subject Matter Expert | Norton  
+**Jul 2021 - Feb 2023**  
+- Provided cybersecurity expertise and customer support  
+- Mentored team members, enhancing performance by 25%  
+- Developed innovative solutions reducing resolution time by 20%  
 
-### 🔧 Project Intern | Sofcon India Pvt Ltd
-**Jan 2019 - May 2019**
-- Assisted in industrial automation project design and implementation
-- Conducted research on energy-efficient electrical systems
-- Participated in short circuit studies and power system protection
+### 🔧 Project Intern | Sofcon India Pvt Ltd  
+**Jan 2019 - May 2019**  
+- Assisted in industrial automation project design and implementation  
+- Conducted research on energy-efficient electrical systems  
+- Participated in short circuit studies and power system protection  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
@@ -78,33 +78,29 @@ I'm an **Innovative Electrical Engineer** with over 2 years of experience in tec
   <img src="https://skillicons.dev/icons?i=premiere,aftereffects,photoshop" />
 </div>
 
-- **Adobe Creative Suite**: Premiere Pro, After Effects, Character Animator, Audition
-- **Video Production**: Motion Graphics, Color Correction
-- **Design**: Creative content development
+- **Adobe Creative Suite**: Premiere Pro, After Effects, Character Animator, Audition  
+- **Video Production**: Motion Graphics, Color Correction  
+- **Design**: Creative content development  
 
 ### 💻 Technical Support
-<img align="left" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200" />
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=windows,apple,android" />
-</div>
-
-- **Operating Systems**: Windows, macOS, Android
-- **Microsoft 365**: Outlook, Excel, PowerPoint
-- **Remote Support**: Bomgar, LogMeIn
-- **Ticketing Systems**: Zendesk, Jira
+- **Operating Systems**: Windows, macOS, Android  
+- **Microsoft 365**: Outlook, Excel, PowerPoint  
+- **Remote Support**: Bomgar, LogMeIn  
+- **Ticketing Systems**: Zendesk, Jira  
 
 ### 🌐 Networking & Infrastructure
 <img align="right" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" height="150" />
 
-- **Networking**: Subnetting, TCP/IP, Network Troubleshooting
-- **Directory Services**: Active Directory
-- **Protocols**: Internet Protocol Suite
+- **Networking**: Subnetting, TCP/IP, Network Troubleshooting  
+- **Directory Services**: Active Directory  
+- **Protocols**: Internet Protocol Suite  
 
 ### ⚡ Electrical Engineering
-- **Industrial Automation**: PLC programming, control systems
-- **Power Systems**: Short circuit analysis, protection systems
-- **Renewable Energy**: Solar, wind systems analysis
+
+- **Industrial Automation**: PLC programming, control systems  
+- **Power Systems**: Short circuit analysis, protection systems  
+- **Renewable Energy**: Solar, wind systems analysis  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
@@ -118,7 +114,7 @@ I'm an **Innovative Electrical Engineer** with over 2 years of experience in tec
 |---------------|--------|
 | 🤖 Industrial Automation Specialist | Professional Certification |
 | 📱 Google Certified Digital Marketer | Google |
-| 📝 Content Marketing Certification | HubSpot Academy |
+| 📜 Content Marketing Certification | HubSpot Academy |
 | 🎬 Mastering Adobe Premiere Pro CC | Udemy |
 | 🌐 Computer Networks Fundamentals | Udemy |
 
@@ -130,12 +126,12 @@ I'm an **Innovative Electrical Engineer** with over 2 years of experience in tec
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" height="200" />
 
-**🧠 Analytical Thinking** | **🤝 Teamwork** | **🔧 Problem Solving** | **💬 Effective Communication**
+**🧠 Analytical Thinking** | **🤝 Teamwork** | **🔧 Problem Solving** | **💬 Effective Communication**  
 
-- **Problem-Solving**: Efficient analysis and resolution of technical issues
-- **Communication**: Ability to explain complex technical concepts to diverse audiences
-- **Collaboration**: Strong teamwork skills across cross-functional teams
-- **Continuous Learning**: Active participation in engineering forums and professional development
+- **Problem-Solving**: Efficient analysis and resolution of technical issues  
+- **Communication**: Ability to explain complex technical concepts to diverse audiences  
+- **Collaboration**: Strong teamwork skills across cross-functional teams  
+- **Continuous Learning**: Active participation in engineering forums and professional development  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
@@ -145,16 +141,16 @@ I'm an **Innovative Electrical Engineer** with over 2 years of experience in tec
 
 <img align="left" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="300" height="200" />
 
-- 🌿 **Renewable Energy Technologies**: Solar, wind, and sustainable energy solutions
-- 🏠 **IoT Applications**: Smart home and industrial IoT implementations
-- 💻 **Online Engineering Communities**: Active contributor to technical forums
-- 🎥 **Motion Graphics**: Creative visual content development
+- 🌿 **Renewable Energy Technologies**: Solar, wind, and sustainable energy solutions  
+- 🏠 **IoT Applications**: Smart home and industrial IoT implementations  
+- 💻 **Online Engineering Communities**: Active contributor to technical forums  
+- 🎥 **Motion Graphics**: Creative visual content development  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
 </div>
 
-## 📫 Let's Connect!
+## 📨 Let's Connect!
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300" height="200" />
